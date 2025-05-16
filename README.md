@@ -31,3 +31,7 @@ Advprog A
 ## Image
 **Screenshot setelah menjalankan RabbitMQ**
 ![alt text](image.png)
+
+**Setelah menjalankan cargo run publisher dan subscriber**
+Yang bisa disimpulkan dari gambar ini, komunikasi antara publisher, subscriber maupun RabbitMQ berhasil. Publisher mengirim event berupa pesan ke RabbitMQ lalu subscriber menerimanya.
+![alt text](image-1.png)
