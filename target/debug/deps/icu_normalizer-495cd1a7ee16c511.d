@@ -1,0 +1,10 @@
+D:\KULIAH CADANGAN\tutor modul adpro\adpro 9\publisher\target\debug\deps\libicu_normalizer-495cd1a7ee16c511.rmeta: C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs
+
+D:\KULIAH CADANGAN\tutor modul adpro\adpro 9\publisher\target\debug\deps\libicu_normalizer-495cd1a7ee16c511.rlib: C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs
+
+D:\KULIAH CADANGAN\tutor modul adpro\adpro 9\publisher\target\debug\deps\icu_normalizer-495cd1a7ee16c511.d: C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs
+
+C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\lib.rs:
+C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\properties.rs:
+C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\provider.rs:
+C:\Users\Hadyan\ Fachri\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.0.0\src\uts46.rs:
