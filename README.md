@@ -3,6 +3,7 @@ Hadyan Fachri\
 2306245030\
 Advprog A
 
+## Reflection
 **a. How much data your publisher program will send to the message broker in one run?**
 
 - program publisher mengirim **5** pesan/event ke message broker (RabbitMQ) dalam satu kali eksekusi (cargo run). Setiap pesan berisi struktur data UserCreatedEventMessage dengan dua field:
@@ -26,3 +27,7 @@ Advprog A
     - `localhost:5672`:
         - `localhost`: Broker berjalan di mesin lokal (komputer yang sama dengan program).
         - `5672`: Port default AMQP untuk koneksi ke RabbitMQ.
+
+## Image
+**Screenshot setelah menjalankan RabbitMQ**
+![alt text](image.png)
