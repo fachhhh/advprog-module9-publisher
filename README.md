@@ -35,3 +35,7 @@ Advprog A
 **Setelah menjalankan cargo run publisher dan subscriber**
 Yang bisa disimpulkan dari gambar ini, komunikasi antara publisher, subscriber maupun RabbitMQ berhasil. Publisher mengirim event berupa pesan ke RabbitMQ lalu subscriber menerimanya.
 ![alt text](image-1.png)
+
+**Setelah menjalankan cargo run di terminal publisher kembali dan memperhatikan Chart pada RabbitMQ**
+Yang bisa saya simpulkan dari gambar ini adalah setiap perintah cargo run pada terminal publisher dijalankan, chart pada RabbitMQ menghasilkan garis ungu dan garis kuning sebagai penanda data telah dikirim dan diterima.
+![alt text](image-3.png)
